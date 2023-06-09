@@ -1,3 +1,3 @@
-# sharmilakuthunur.github.io
+# sharmila-kuthunur.github.io
 
 Personal blog
